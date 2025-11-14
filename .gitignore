@@ -1,0 +1,3 @@
+# Kamal deployment specific folders, shouldn't be pushed to repo
+.kamal/
+config/
